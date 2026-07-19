@@ -3,7 +3,7 @@
 
 A single-file [Shiny](https://shiny.posit.co/) app for exploring kinetic
 plate-reader data. Upload a BioTek Synergy kinetic export and get time-courses,
-AUC rankings, quality-control tables and a plate heatmap — and name your wells
+AUC rankings, quality-control tables and a plate heatmap and name your wells
 on a clickable 96- or 384-well map right inside the app. No separate map file,
 no code editing.
 
